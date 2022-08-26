@@ -6,10 +6,15 @@ Requirements
 Python 3
 
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 Geopandas
+
 About The Study
 
 This research project is conducted under Renaissance Learning. The study compares three different government agencies and their existing estimates regarding sexual violence. We analyze each agency individually to ascertain trends, and then analyzed them in comparison with one another to evaluate accuracy.
